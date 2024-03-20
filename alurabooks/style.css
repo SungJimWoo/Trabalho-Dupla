@@ -1,0 +1,14 @@
+@import url(styles/header.css);
+@import url(styles/banner.css);
+@import url(styles/carrosel.css);
+
+:root {
+    --cor-de-fundo: #ebecee;
+    --branco: #ffffff;
+    --laranja: #EB9B00;
+    --azul-degrade: rgb(33, 33, 109);
+    --azul: #002f52;
+}
+body {
+    background-color: var(--cor-de-fundo);
+}
